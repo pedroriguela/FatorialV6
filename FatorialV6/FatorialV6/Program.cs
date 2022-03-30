@@ -37,6 +37,8 @@ namespace Fatorial
             Console.WriteLine("O fatorial de {0} é {1} usando o método {2}", num, modeloCalc, escolha);
             stopWatch.Stop();
             Console.WriteLine($"O tempo de execução foi de: {stopWatch.ElapsedMilliseconds}ms");
+            Console.ReadLine();
+
 
         }
 
