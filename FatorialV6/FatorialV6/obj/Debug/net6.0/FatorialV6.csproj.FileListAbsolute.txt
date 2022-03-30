@@ -1,0 +1,15 @@
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.csproj.AssemblyReference.cache
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.AssemblyInfoInputs.cache
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.AssemblyInfo.cs
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\bin\Debug\net6.0\FatorialV6.exe
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\bin\Debug\net6.0\FatorialV6.deps.json
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\bin\Debug\net6.0\FatorialV6.runtimeconfig.json
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\bin\Debug\net6.0\FatorialV6.dll
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\bin\Debug\net6.0\FatorialV6.pdb
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.dll
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\refint\FatorialV6.dll
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.pdb
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\FatorialV6.genruntimeconfig.cache
+C:\Users\Lucas Origuela\Desktop\FatorialV6\FatorialV6\FatorialV6\obj\Debug\net6.0\ref\FatorialV6.dll
