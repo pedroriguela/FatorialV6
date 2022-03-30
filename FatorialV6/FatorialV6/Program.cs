@@ -14,7 +14,6 @@
             int num = Convert.ToInt32(Console.ReadLine());
 
 
-
             if (escolha == 1)
             {
                 Console.WriteLine("modelo loop");
