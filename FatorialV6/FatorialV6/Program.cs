@@ -12,7 +12,7 @@
             Console.WriteLine("Digite um número para ter seu fatorial: ");
             int num = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(Factorial(num));
+            Console.WriteLine((num));
             Console.ReadLine();
 
             if (escolha == 1)
